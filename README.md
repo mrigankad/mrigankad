@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mrigankad&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mrigankad's top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mrigankad&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=10&custom_title=All%20Languages" alt="mrigankad's languages" />
 </div>
 
 <br/>
