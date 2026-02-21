@@ -46,13 +46,13 @@
 
 <div align="center">
   <a href="https://github.com/sipeed/picoclaw">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sipeed&repo=picoclaw&show_owner=true" alt="PicoClaw Repo Card"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sipeed&repo=picoclaw&show_owner=true" alt="PicoClaw Repo Card"/>
   </a>
   <a href="https://github.com/vanna-ai/vanna">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=vanna-ai&repo=vanna&show_owner=true" alt="Vanna AI Repo Card"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vanna-ai&repo=vanna&show_owner=true" alt="Vanna AI Repo Card"/>
   </a>
   <a href="https://github.com/rapidaai/voice-ai">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=rapidaai&repo=voice-ai&show_owner=true" alt="Rapida AI Repo Card"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rapidaai&repo=voice-ai&show_owner=true" alt="Rapida AI Repo Card"/>
   </a>
 </div>
 
@@ -83,12 +83,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mrigankad&show_icons=true&hide_border=true" alt="mrigankad's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrigankad&show_icons=true&hide_border=true" alt="mrigankad's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrigankad&hide_border=true" alt="mrigankad's Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=mrigankad&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mrigankad's top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mrigankad&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mrigankad's top languages" />
 </div>
 
 <br/>
