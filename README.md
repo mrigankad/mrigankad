@@ -45,14 +45,14 @@
 ### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/mrigankad/PicoClaw">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=mrigankad&repo=PicoClaw&theme=radical&show_owner=false" alt="PicoClaw Repo Card"/>
+  <a href="https://github.com/sipeed/picoclaw">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sipeed&repo=picoclaw&show_owner=true" alt="PicoClaw Repo Card"/>
   </a>
-  <a href="https://github.com/mrigankad/Vanna-AI">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=mrigankad&repo=Vanna-AI&theme=radical&show_owner=false" alt="Vanna AI Repo Card"/>
+  <a href="https://github.com/vanna-ai/vanna">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=vanna-ai&repo=vanna&show_owner=true" alt="Vanna AI Repo Card"/>
   </a>
-  <a href="https://github.com/mrigankad/Rapida-AI">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=mrigankad&repo=Rapida-AI&theme=radical&show_owner=false" alt="Rapida AI Repo Card"/>
+  <a href="https://github.com/rapidaai/voice-ai">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=rapidaai&repo=voice-ai&show_owner=true" alt="Rapida AI Repo Card"/>
   </a>
 </div>
 
@@ -62,19 +62,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,angular,vue,tailwind,bootstrap,dart,flutter,android" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,angular,vue,tailwind,bootstrap,dart,flutter,android&theme=light" />
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,java,c,cpp,cs,dotnet,golang,php,rust" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,java,c,cpp,cs,dotnet,golang,php,rust&theme=light" />
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,aws,azure,gcp,docker,kubernetes,linux,nginx,firebase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,aws,azure,gcp,docker,kubernetes,linux,nginx,firebase&theme=light" />
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop,blender,postman,graphql,git,github,jenkins,kafka,rabbitmq,electron,unity" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop,blender,postman,graphql,git,github,jenkins,kafka,rabbitmq,electron,unity&theme=light" />
   </a>
 </p>
 
@@ -83,12 +83,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mrigankad&show_icons=true&theme=radical&hide_border=true" alt="mrigankad's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrigankad&theme=radical&hide_border=true" alt="mrigankad's Streak" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mrigankad&show_icons=true&hide_border=true" alt="mrigankad's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrigankad&hide_border=true" alt="mrigankad's Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=mrigankad&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mrigankad's top languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=mrigankad&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mrigankad's top languages" />
 </div>
 
 <br/>
