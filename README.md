@@ -10,9 +10,6 @@
   <a href="https://github.com/mrigankad">
     <img src="https://komarev.com/ghpvc/?username=mrigankad&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mrigankad" />
   </a>
-  <a href="https://twitter.com/mrigankad" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mrigankad?logo=twitter&style=for-the-badge&color=1DA1F2" alt="mrigankad" />
-  </a>
 </div>
 
 <br/>
@@ -37,8 +34,6 @@
       <div align="center">
         <a href="https://linkedin.com/in/kamigorosh1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <br><br>
-        <a href="https://twitter.com/mrigankad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-        <br><br>
         <a href="https://instagram.com/kam1gorosh1.uiux"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <br><br>
         <a href="https://medium.com/@mrigankodeylm10"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -51,13 +46,13 @@
 
 <div align="center">
   <a href="https://github.com/mrigankad/PicoClaw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrigankad&repo=PicoClaw&theme=radical&show_owner=false" alt="PicoClaw Repo Card"/>
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=mrigankad&repo=PicoClaw&theme=radical&show_owner=false" alt="PicoClaw Repo Card"/>
   </a>
   <a href="https://github.com/mrigankad/Vanna-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrigankad&repo=Vanna-AI&theme=radical&show_owner=false" alt="Vanna AI Repo Card"/>
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=mrigankad&repo=Vanna-AI&theme=radical&show_owner=false" alt="Vanna AI Repo Card"/>
   </a>
   <a href="https://github.com/mrigankad/Rapida-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrigankad&repo=Rapida-AI&theme=radical&show_owner=false" alt="Rapida AI Repo Card"/>
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=mrigankad&repo=Rapida-AI&theme=radical&show_owner=false" alt="Rapida AI Repo Card"/>
   </a>
 </div>
 
@@ -85,19 +80,15 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrigankad&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="mrigankad trophies" />
-</div>
-
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrigankad&show_icons=true&theme=radical&hide_border=true" alt="mrigankad's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mrigankad&show_icons=true&theme=radical&hide_border=true" alt="mrigankad's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrigankad&theme=radical&hide_border=true" alt="mrigankad's Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrigankad&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mrigankad's top languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=mrigankad&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mrigankad's top languages" />
 </div>
 
 <br/>
