@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060B18"/><stop offset="1" stop-color="#0A1A33"/></linearGradient>
+<radialGradient id="g1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".45"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#7C9CFF" stop-opacity=".40"/><stop offset="1" stop-color="#7C9CFF" stop-opacity="0"/></radialGradient>
+<linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#0E75B6"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#7C9CFF"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1C2C47" stroke-width="1"/></pattern>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".55" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity=".3"/></linearGradient>
+<mask id="m"><rect width="1200" height="440" fill="url(#fade)"/></mask>
+<clipPath id="r"><rect width="1200" height="440" rx="28"/></clipPath>
+<style>
+.f{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.o1{animation:d1 14s ease-in-out infinite alternate} .o2{animation:d2 18s ease-in-out infinite alternate}
+@keyframes d1{to{transform:translate(-120px,60px)}} @keyframes d2{to{transform:translate(140px,-50px)}}
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.dot{animation:p 2s ease-in-out infinite} @keyframes p{50%{opacity:.25}}
+.orb{transform-origin:960px 220px;animation:spin 40s linear infinite} .orb2{transform-origin:960px 220px;animation:spin 26s linear infinite reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style></defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="440" fill="url(#bg)"/>
+<rect width="1200" height="440" fill="url(#grid)" mask="url(#m)" opacity=".7"/>
+<circle class="o1" cx="1020" cy="120" r="320" fill="url(#g1)"/>
+<circle class="o2" cx="760" cy="420" r="300" fill="url(#g2)"/>
+<g class="orb" fill="none" stroke="#22D3EE" stroke-opacity=".4"><circle cx="960" cy="220" r="150" stroke-dasharray="2 10"/><circle cx="1110" cy="220" r="6" fill="#22D3EE" stroke="none"/></g>
+<g class="orb2" fill="none" stroke="#7C9CFF" stroke-opacity=".4"><circle cx="960" cy="220" r="100"/><circle cx="960" cy="120" r="5" fill="#7C9CFF" stroke="none"/></g>
+<g transform="translate(960 220)"><rect x="-46" y="-46" width="92" height="92" rx="24" fill="#0D1B30" stroke="#1C2C47"/>
+<path d="M-20 14 L-20 -14 L0 6 L20 -14 L20 14" fill="none" stroke="url(#tx)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="439" rx="28" fill="none" stroke="#1C2C47"/>
+<g class="f">
+<g class="up" style="animation-delay:.1s"><rect x="72" y="74" width="300" height="34" rx="17" fill="#0D1B30" stroke="#1C2C47"/>
+<circle class="dot" cx="94" cy="91" r="5" fill="#22C55E"/><text x="110" y="96" font-size="14" font-weight="500" fill="#8FA3BF">Open to AI product collaborations</text></g>
+<text class="up" style="animation-delay:.25s" x="68" y="196" font-size="76" font-weight="800" letter-spacing="-2.5" fill="#F5F8FF">Mriganka Dey</text>
+<text class="up" style="animation-delay:.4s" x="72" y="250" font-size="30" font-weight="600" letter-spacing="-.5" fill="url(#tx)">I design AI products, then I ship them.</text>
+<text class="up" style="animation-delay:.55s" x="72" y="298" font-size="18" fill="#8FA3BF">Product Designer  ·  Frontend Architect  ·  AI Builder  ·  India</text>
+<g class="up" style="animation-delay:.7s" font-size="14" font-weight="600"><rect x="72" y="336" width="150" height="36" rx="10" fill="#0D1B30" stroke="#1C2C47"/><text x="147.0" y="359" text-anchor="middle" fill="#F5F8FF">Design systems</text><rect x="232" y="336" width="120" height="36" rx="10" fill="#0D1B30" stroke="#1C2C47"/><text x="292.0" y="359" text-anchor="middle" fill="#F5F8FF">Agent UX</text><rect x="362" y="336" width="150" height="36" rx="10" fill="#0D1B30" stroke="#1C2C47"/><text x="437.0" y="359" text-anchor="middle" fill="#F5F8FF">Next.js builds</text><rect x="522" y="336" width="140" height="36" rx="10" fill="#0D1B30" stroke="#1C2C47"/><text x="592.0" y="359" text-anchor="middle" fill="#F5F8FF">Product films</text></g>
+</g></svg>
