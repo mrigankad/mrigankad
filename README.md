@@ -1,81 +1,82 @@
 <a href="https://linkedin.com/in/kamigorosh1">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img alt="Mriganka Dey. I design AI products, then I ship them." src="assets/hero-light.svg" width="100%">
+    <img alt="Mriganka Dey, AI Engineer and Product Designer. I build AI agents and design the products people use them through." src="assets/hero-light.svg" width="100%">
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kamigorosh1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.ascenddesign.in/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://medium.com/@mrigankodeylm10"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://instagram.com/kam1gorosh1.uiux"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:mriganka.uiux@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kamigorosh1"><img src="https://img.shields.io/badge/LinkedIn-0B0D12?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.ascenddesign.in/"><img src="https://img.shields.io/badge/Portfolio-1F4FFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://medium.com/@mrigankodeylm10"><img src="https://img.shields.io/badge/Medium-0B0D12?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://instagram.com/kam1gorosh1.uiux"><img src="https://img.shields.io/badge/Instagram-0B0D12?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mriganka.uiux@gmail.com"><img src="https://img.shields.io/badge/Email-0B0D12?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br/>
 
-### Hey, I'm Mriganka 👋
+## Hey, I'm Mriganka 👋
 
-I work where **design, engineering and AI** meet. Give me a rough brief and I'll take it all the way: research, a design system, a polished interface, a production build, and the film or deck that sells it.
+I'm an **AI engineer who designs**. I build the agents, and I design the products people use them through.
 
-Right now I design and ship **AI accelerators for enterprise teams**: agent consoles, copilots, voice AI and the dashboards around them.
+Right now I'm shipping **AI accelerators for enterprise teams**: multi-agent workflows, copilots, voice AI, and the consoles and dashboards that make them usable. I also wrote *Thinking Like a Product Engineer*, a field guide to building useful things in the age of AI.
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pillars-dark.svg">
-  <img alt="Design, Build, Intelligence" src="assets/pillars-light.svg" width="100%">
+  <img alt="Agents, Interfaces, Shipping" src="assets/pillars-light.svg" width="100%">
 </picture>
 
-<br/>
-
-### How I work
+## How I work
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
-  <img alt="Brief, Research, System, Interface, Build, Story" src="assets/process-light.svg" width="100%">
+  <img alt="Brief, Research, Agent design, Interface, Build, Ship and measure" src="assets/process-light.svg" width="100%">
 </picture>
 
-One person, one loop, no handoff gaps. I design in Figma and Paper, build in Next.js, and tell the story with motion.
+One person, one loop, no handoff gaps. I design the agent and the interface together, build them in the same stack, and measure what ships.
 
-<br/>
-
-### What I'm into right now
+## Right now
 
 | | |
 |:--|:--|
-| 🧠 **Agentic UX** | Making multi-agent systems feel understandable, trustworthy and calm |
-| 🧩 **Design systems at scale** | One source of truth across website, product, decks and docs |
-| 🎬 **Product films** | Isometric and clay-style explainers built straight from the real UI |
-| 🎙️ **Voice AI** | Interfaces for multilingual, code-switching voice agents |
+| 🤖 **Agent systems** | Orchestration, tool use, RAG and evals for multi-agent enterprise workflows |
+| 🎙️ **Voice AI** | Multilingual, code-switching voice agents and the interfaces around them |
+| 🧠 **Agentic UX** | Making AI that acts on its own feel understandable, trustworthy and calm |
+| 🧩 **Design systems** | One source of truth across product, site, decks and docs |
 | 🔭 **Open source** | Following [PicoClaw](https://github.com/sipeed/picoclaw), [Vanna AI](https://github.com/vanna-ai/vanna) and [Rapida Voice AI](https://github.com/rapidaai/voice-ai) |
 
-<br/>
-
-### Toolkit
+## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender&theme=dark" height="44" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,ts,nodejs&theme=dark" height="44" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vue,flutter&theme=dark" height="44" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,blender&theme=dark" height="44" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,postgres,mongodb,redis&theme=dark" height="44" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure,aws,vercel,docker,git,github&theme=dark" height="44" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,azure,aws,docker,vercel,git&theme=dark" height="44" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-0B0D12?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-0B0D12?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0B0D12?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI-0B0D12?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0B0D12?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paper-1F4FFF?style=flat-square" />
+</p>
 
 <details>
 <summary><b>📊 GitHub at a glance</b></summary>
 <br/>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mrigankad&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=8FA3BF&count_private=true">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrigankad&show_icons=true&hide_border=true&theme=transparent&title_color=0E75B6&icon_color=0E75B6&text_color=4B5D78&count_private=true" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mrigankad&show_icons=true&hide_border=true&theme=transparent&title_color=6E8BFF&icon_color=6E8BFF&text_color=9AA3B2&count_private=true">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrigankad&show_icons=true&hide_border=true&theme=transparent&title_color=1F4FFF&icon_color=1F4FFF&text_color=5B6270&count_private=true" height="165" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mrigankad&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=8FA3BF&langs_count=8">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mrigankad&layout=compact&hide_border=true&theme=transparent&title_color=0E75B6&text_color=4B5D78&langs_count=8" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mrigankad&layout=compact&hide_border=true&theme=transparent&title_color=6E8BFF&text_color=9AA3B2&langs_count=8">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mrigankad&layout=compact&hide_border=true&theme=transparent&title_color=1F4FFF&text_color=5B6270&langs_count=8" height="165" />
   </picture>
 </p>
 </details>
@@ -85,6 +86,6 @@ One person, one loop, no handoff gaps. I design in Figma and Paper, build in Nex
 <a href="https://linkedin.com/in/kamigorosh1">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-    <img alt="Building an AI product? Let's make it feel inevitable. Connect on LinkedIn." src="assets/footer-light.svg" width="100%">
+    <img alt="Building something with AI? Let's make it feel inevitable. Say hi on LinkedIn." src="assets/footer-light.svg" width="100%">
   </picture>
 </a>
