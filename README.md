@@ -17,7 +17,7 @@
 
 ## Hey, I'm Mriganka 👋
 
-I'm an **AI engineer who designs**. I build the agents, and I design the products people use them through.
+I'm an **AI engineer who designs**. I fine-tune small language models, build the agents on top of them, and design the products people use them through.
 
 Right now I'm shipping **AI accelerators for enterprise teams**: multi-agent workflows, copilots, voice AI, and the consoles and dashboards that make them usable. I also wrote *Thinking Like a Product Engineer*, a field guide to building useful things in the age of AI.
 
@@ -25,7 +25,7 @@ Right now I'm shipping **AI accelerators for enterprise teams**: multi-agent wor
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pillars-dark.svg">
-  <img alt="Agents, Interfaces, Shipping" src="assets/pillars-light.svg" width="100%">
+  <img alt="Models, Agents, Interfaces, Shipping" src="assets/pillars-light.svg" width="100%">
 </picture>
 
 ## How I work
@@ -41,6 +41,9 @@ One person, one loop, no handoff gaps. I design the agent and the interface toge
 
 | | |
 |:--|:--|
+| 🧪 **Small language models** | Building and fine-tuning SLMs for fast, private, low-cost inference on edge and on-prem |
+| 🎛️ **LoRA / QLoRA** | Parameter-efficient fine-tuning, adapters per task or client, merged and quantized for deployment |
+| ⚗️ **Distillation + evals** | Distilling big-model behaviour into small models, with eval suites that prove it holds |
 | 🤖 **Agent systems** | Orchestration, tool use, RAG and evals for multi-agent enterprise workflows |
 | 🎙️ **Voice AI** | Multilingual, code-switching voice agents and the interfaces around them |
 | 🧠 **Agentic UX** | Making AI that acts on its own feel understandable, trustworthy and calm |
@@ -63,6 +66,11 @@ One person, one loop, no handoff gaps. I design the agent and the interface toge
   <img src="https://img.shields.io/badge/LangGraph-0B0D12?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_AI-0B0D12?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-0B0D12?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRA_·_QLoRA-0B0D12?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unsloth-0B0D12?style=flat-square" />
+  <img src="https://img.shields.io/badge/vLLM-0B0D12?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-0B0D12?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/llama.cpp-0B0D12?style=flat-square" />
   <img src="https://img.shields.io/badge/Paper-1F4FFF?style=flat-square" />
 </p>
 

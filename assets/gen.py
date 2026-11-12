@@ -13,7 +13,7 @@ CH, CHS = b64('assets/character.png'), b64('assets/character-sm.png')
 
 def hero(t):
     chips = ''
-    for i, (x, s) in enumerate([(72,'LLM agents'),(196,'RAG'),(262,'Voice AI'),(358,'Next.js'),(444,'Design systems')]):
+    for i, (x, s) in enumerate([(72,'SLMs'),(140,'LoRA fine-tuning'),(290,'LLM agents'),(404,'RAG'),(462,'Voice AI'),(550,'Next.js')]):
         chips += f'<text x="{x}" y="446" font-size="17" font-weight="{700 if i==0 else 500}" fill="{t["ink"] if i==0 else t["mut"]}">{s}</text>'
     # agent network floating in the panel
     nodes = [(838, 92), (930, 60), (1010, 110), (868, 170), (960, 150)]
@@ -50,19 +50,20 @@ def hero(t):
 </g></svg>'''
 
 def pillars(t):
-    items = [('01', 'Agents', 'Multi agent systems, tool use, RAG and evals. Orchestration that holds up in production, not just in a demo.'),
-             ('02', 'Interfaces', 'Copilots, agent consoles and enterprise dashboards that make complex AI feel calm and obvious.'),
-             ('03', 'Shipping', 'Next.js, TypeScript and Python on Azure. One loop from Paper frame to deployed product.')]
+    items = [('01', 'Models', 'Small language models, LoRA and QLoRA fine-tunes, distillation and quantization for fast, private inference.'),
+             ('02', 'Agents', 'Multi agent systems, tool use, RAG and evals that hold up in production, not just a demo.'),
+             ('03', 'Interfaces', 'Copilots, agent consoles and dashboards that make complex AI feel calm and obvious.'),
+             ('04', 'Shipping', 'Next.js, TypeScript and Python on Azure. One loop from Paper frame to deployed product.')]
     o = f'<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300"><style>.f{{{F}}} .s{{{S}}} .c{{opacity:0;animation:up .8s cubic-bezier(.2,.8,.2,1) forwards}} {UP} {RM}</style><g class="f">'
     o += f'<line x1="0" y1="1" x2="1200" y2="1" stroke="{t["ink"]}" stroke-width="2"/>'
     for i, (n, h, d) in enumerate(items):
-        x = i * 410
+        x = i * 308
         o += f'<g class="c" style="animation-delay:{.12*i}s">'
-        if i: o += f'<line x1="{x-24}" y1="40" x2="{x-24}" y2="270" stroke="{t["rule"]}"/>'
+        if i: o += f'<line x1="{x-20}" y1="40" x2="{x-20}" y2="270" stroke="{t["rule"]}"/>'
         o += f'<text x="{x}" y="54" font-size="15" font-weight="700" letter-spacing="1.2" fill="{t["acc"]}">{n}</text>'
-        o += f'<text x="{x}" y="120" font-size="48" font-weight="800" letter-spacing="-2" fill="{t["ink"]}">{h}</text>'
-        for j, l in enumerate(textwrap.wrap(d, 36)):
-            o += f'<text x="{x}" y="{170+j*28}" font-size="18" fill="{t["mut"]}">{l}</text>'
+        o += f'<text x="{x}" y="120" font-size="40" font-weight="800" letter-spacing="-1.6" fill="{t["ink"]}">{h}</text>'
+        for j, l in enumerate(textwrap.wrap(d, 28)):
+            o += f'<text x="{x}" y="{164+j*26}" font-size="17" fill="{t["mut"]}">{l}</text>'
         o += '</g>'
     return o + '</g></svg>'
 
