@@ -19,7 +19,7 @@
 
 I'm an **AI engineer who designs**. I fine-tune small language models, build the agents on top of them, and design the products people use them through.
 
-Right now I'm shipping **AI accelerators for enterprise teams**: multi-agent workflows, copilots, voice AI, and the consoles and dashboards that make them usable. I also wrote *Thinking Like a Product Engineer*, a field guide to building useful things in the age of AI.
+Right now I'm shipping **AI accelerators for enterprise teams**: multi-agent workflows, copilots, voice AI, AI for security, and the consoles and dashboards that make them usable. I also wrote *Thinking Like a Product Engineer*, a field guide to building useful things in the age of AI.
 
 <br/>
 
@@ -45,10 +45,11 @@ One person, one loop, no handoff gaps. I design the agent and the interface toge
 | 🎛️ **LoRA / QLoRA** | Parameter-efficient fine-tuning, adapters per task or client, merged and quantized for deployment |
 | ⚗️ **Distillation + evals** | Distilling big-model behaviour into small models, with eval suites that prove it holds |
 | 🤖 **Agent systems** | Orchestration, tool use, RAG and evals for multi-agent enterprise workflows |
+| 🛡️ **AI in security** | Autonomous pentesting agents, AI-driven SOC triage and threat detection, and securing LLM apps against prompt injection |
 | 🎙️ **Voice AI** | Multilingual, code-switching voice agents and the interfaces around them |
 | 🧠 **Agentic UX** | Making AI that acts on its own feel understandable, trustworthy and calm |
 | 🧩 **Design systems** | One source of truth across product, site, decks and docs |
-| 🔭 **Open source** | Following [PicoClaw](https://github.com/sipeed/picoclaw), [Vanna AI](https://github.com/vanna-ai/vanna) and [Rapida Voice AI](https://github.com/rapidaai/voice-ai) |
+| 🔭 **Open source** | Contributed to [PentAGI](https://github.com/vxcontrol/pentagi) and [Rapida Voice AI](https://github.com/rapidaai/voice-ai) |
 
 ## Toolkit
 
